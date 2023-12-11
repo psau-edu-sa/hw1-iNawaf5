@@ -10,12 +10,6 @@ Welcome to the Twitch.tv Optimization Project! This project focuses on enhancing
 
 - **Stronger Content Moderation:** Implement advanced moderation tools to maintain a positive community environment.
 
-## How to Contribute
-
-1. Fork the repository.
-2. Make your enhancements.
-3. Submit a pull request.
-
 ## Getting Started
 
 To run the project locally, follow these steps:
